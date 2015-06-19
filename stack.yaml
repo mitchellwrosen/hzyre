@@ -1,0 +1,6 @@
+flags: {}
+packages:
+- '.'
+extra-deps:
+- inline-c-0.5.3.4
+resolver: lts-2.14
